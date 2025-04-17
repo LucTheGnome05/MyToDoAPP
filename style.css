@@ -8,7 +8,7 @@ html, body {
 
 body {
   min-height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.45)), url(images/footer-gradient.webp);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.45)), url(footer-gradient.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
